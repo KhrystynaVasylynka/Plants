@@ -1,7 +1,8 @@
 @import "normalize";
 
-@import "presets/skins";
-@import "presets/variables";
+@import "variables";
+@import "mixins";
+
 
 @import "header";
 @import "classes";
